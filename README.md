@@ -1,7 +1,19 @@
 # DMAP
-Fall 2024 Final Project for Data Management and Processing 
 
-# Project Responsibilities and Timelines:
+## Fall 2024 Final Project for Data Management and Processing 
+
+### Where to find our Final Project submissions:
+* Final Presentation: Saved in our repo named "DMAP Final Presentation.pdf"
+* Final Technical Report: Saved in our repo named "FinalReport.pdf"
+* Final Code: Saved in our repo in various important files.
+    * "Aggregation.ipynb" is where we calculated 10 minute time intervals of our Line Estimates for analysis.
+    * "BarVisuals.ipynb" and "User_Visuals.ipynb" is where the visualizations based off our simulated data exists. These visuals are what Bar Patrons would see.
+    * "db-config.ipynb" is where we configured our MySQL database and loaded the data into the tables using SQL queries.
+    * "dmap_final_simulateddata.py" is where we generated the simulated data using various python methods to create random data while conforming to our table structures.
+    * "bar_data_cleaned.csv", "user_data_cleaned.csv", and "review_data_cleaned.csv" is where our data lives. These 3 files represent the 3 tables of data in our relational database.
+    * "final-project-erd.png" is our ERD diagram for our final project data.
+
+### Project Responsibilities and Timelines:
 
 	- Steps 
 		○ ONGOING (both) document workflow and process in a shared word document
